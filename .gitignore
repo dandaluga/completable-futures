@@ -16,3 +16,6 @@ log/
 target/
 .mvn
 mvnw*
+
+### VS Code ###
+.vscode/
